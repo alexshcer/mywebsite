@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1yjSGfsD_2oFncvagEom8iwiM_-LBO66g/view?usp=sharing" width="480px" alt="Gatsby project from Quarkly">
+  <img src="https://drive.google.com/file/d/1yjSGfsD_2oFncvagEom8iwiM_-LBO66g/view" width="480px" alt="Gatsby project from Quarkly">
 </p>
 
 <h1 align="center">Website Example</h1>
