@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://uploads.quarkly.io/readme/gatsby/readme-quarkly-and-gatsby.png" width="480px" alt="Gatsby project from Quarkly">
+  <img src="https://drive.google.com/file/d/1yjSGfsD_2oFncvagEom8iwiM_-LBO66g/view?usp=sharing" width="480px" alt="Gatsby project from Quarkly">
 </p>
 
 <h1 align="center">Website Example</h1>
@@ -14,7 +14,7 @@
   <a href="https://www.gatsbyjs.org/">
     <img src="https://badgen.net/badge/Gatsby/2.23.12/purple" alt="Gatsby version" />
   </a>
-  
+
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="License">
   </a>
